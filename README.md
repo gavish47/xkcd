@@ -14,7 +14,16 @@ A PHP-based email subscription system that delivers daily XKCD comics to subscri
 
 ## Screenshots
 
-The system features a modern, step-by-step subscription process with visual indicators and responsive design.
+
+![Screenshot 2025-07-03 141459](https://github.com/user-attachments/assets/52ea3801-baf9-4ef8-b19f-e66979edab97)
+![Screenshot 2025-07-03 141402](https://github.com/user-attachments/assets/02ec7612-4fdc-405f-8fdd-81bbd86374a1)
+![Screenshot 2025-07-03 141336](https://github.com/user-attachments/assets/852fc4d7-5a3b-466d-84fb-0d9c4c7d1718)
+![Screenshot 2025-07-03 141312](https://github.com/user-attachments/assets/088a5026-3c70-496c-9eca-30e4b03a5109)
+![Screenshot 2025-07-03 141308](https://github.com/user-attachments/assets/b22bfdb0-b69a-4eeb-b7cf-50a97be5e038)
+![Screenshot 2025-07-03 141303](https://github.com/user-attachments/assets/f0a855ea-7217-43e7-8711-b73c8ba4f1e2)
+
+
+
 
 ## Installation
 
